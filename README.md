@@ -34,4 +34,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 [![Visit StartupsAcquisitions.com](https://startupsacquisitions.com/wp-content/uploads/startupsacquisitions.com-logo-white.png)](https://www.startupsacquisitions.com)
 
-![Platform Overview]([https://startupsacquisitions.com/wp-content/uploads/hero1.png](https://startupsacquisitions.com/wp-content/uploads/hero1.png)https://startupsacquisitions.com/wp-content/uploads/hero1.png)
