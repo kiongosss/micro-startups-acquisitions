@@ -2,7 +2,7 @@
 A tool for buying and selling abandoned, pre and post revenue micro and side startups. - https://startupsacquisitions.com
 # StartupsAcquisitions.com
 
-Welcome to StartupsAcquisitions.com! 🚀 This repository contains the landing page for our platform, where you can explore and learn about startup acquisitions.
+Welcome to StartupsAcquisitions.com 🚀 This repository contains the landing page for our platform, where you can explore and learn about startup acquisitions.
 
 ## Overview
 
